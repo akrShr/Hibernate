@@ -1,6 +1,13 @@
 # Hibernate
 This repository have application data persisted in MySQL using Hibernate 
 
+Student Record System
+
+Software Version:- Hibernate 5
+		   Mysql 8
+
+Requirement
+
 Build a java application which admits a student into the system. The student record will include student id, first name, last name, email and admission status(by default on waiting list). The application will allow student to enter other details like his course degree and semester depending upon his choice. A student can enroll for many sports and application can be queried to know for a given sport how many students have registered.
 
 Application Design
