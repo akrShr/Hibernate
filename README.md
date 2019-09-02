@@ -3,7 +3,7 @@ This repository have application data persisted in MySQL using Hibernate
 
 Student Record System
 
-Software Version:- Hibernate 5
+Software Version:- Hibernate 5,
 		   Mysql 8
 
 Requirement
